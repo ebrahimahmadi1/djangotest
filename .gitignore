@@ -4,3 +4,12 @@
 
 #venv
 venv/
+
+
+#sql
+db.sqlite3
+
+
+
+#migratiom
+bolg/migration
